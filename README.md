@@ -39,7 +39,7 @@ Bad Request (400):
 Body: (Only text files (.txt) are supported.)
 
 Description: Indicates that there was a bad request,in cases of invalid file format.
-![File Upload Image](Images/Not txt Exception.png)
+![Not txt Exception](Images/Not_txt_Exception.png)
 
 
 
