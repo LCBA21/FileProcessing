@@ -1,0 +1,10 @@
+Date,Location,Temperature,Humidity,AirQualityIndex
+2024-05-02,Cape Town,25.5,60.2,70
+2024-05-03,Johannesburg,30.2,55.8,65
+2024-05-04,Durban,22.8,70.5,75
+2024-05-05,Pretoria,28.6,65.3,80
+2024-05-06,Port Elizabeth,21.4,58.9,68
+2024-05-07,Bloemfontein,19.9,72.1,72
+2024-05-08,Kimberley,24.7,62.4,78
+2024-05-09,Polokwane,27.3,57.6,76
+2024-05-01,East London,23.1,68.9,74
