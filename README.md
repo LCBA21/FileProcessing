@@ -24,7 +24,7 @@ file (multipart): The file to be uploaded.
 Success Response (200 OK):
 Body: "File uploaded successfully."
 Description: Indicates that the file was uploaded successfully.
-![Images]("./Images/fileUpload.png")
+![Image]("./Images/fileUpload.png")
 
 Error Responses:
 Internal Server Error (500):
