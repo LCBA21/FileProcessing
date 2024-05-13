@@ -35,6 +35,8 @@ Error Responses:
 Internal Server Error (500):
 Body: "Failed to process the uploaded file."
 Description: Indicates that there was an internal server error while processing the uploaded file.
+![Not txt Exception](Images/Invalidfiledata.png)
+
 
 Bad Request (400):
 
